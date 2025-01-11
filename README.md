@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @annettegeo
 - 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning Computer Science(Cyber Security) Engineering 
-
+- 🌱 I’m currently pursuing Computer Science(Cyber Security) Engineering 
 - 📫 How to reach me https://www.linkedin.com/in/annette-george-ab5454273/
 - 😄 Pronouns: she/her
   
